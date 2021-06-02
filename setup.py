@@ -17,5 +17,4 @@ setup(
     long_description=open("README.md", "r").read() +
     "\n\n"+open("CHANGELOG.txt", "r").read(),
     keywords="python",
-
 )
