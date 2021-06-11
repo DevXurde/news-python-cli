@@ -15,7 +15,7 @@ You can choose language , location , topic and no of news you want to listen as 
 ## How to install ?
 First you need to clone this repository , once you have cloned this repository then open your terminal in the folder you have cloned it , after this simply type :
 ```python
-pip install setup.py
+python setup.py install
 ```
 
 ## Why not on PyPi ?
