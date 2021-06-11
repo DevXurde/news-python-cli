@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        news=news.cli:cli
+    

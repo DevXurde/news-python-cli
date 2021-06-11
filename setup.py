@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name="news",
+    name="pynews",
     version="1.0",
     packages=find_packages(),
     include_package_date=True,
