@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+setup.py
+news/__init__.py
+news/cli.py
+pynews.egg-info/PKG-INFO
+pynews.egg-info/SOURCES.txt
+pynews.egg-info/dependency_links.txt
+pynews.egg-info/entry_points.txt
+pynews.egg-info/requires.txt
+pynews.egg-info/top_level.txt
