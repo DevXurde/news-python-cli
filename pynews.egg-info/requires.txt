@@ -1,5 +1,0 @@
-click
-rich
-playsound
-gtts
-gnewsclient
