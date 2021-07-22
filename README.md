@@ -22,19 +22,19 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd news-python-cli
+cd news-python-cli
 ```
 
 Install Requirements
 
 ```bash
-  pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 Run Setup
 
 ```bash
-  python setup.py install
+python setup.py install
 ```
 
 
