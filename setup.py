@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="news",
-    version="1.0",
+    version="1.1",
     packages=find_packages(),
     include_package_date=True,
     install_requires=["click", "rich", "playsound", "gtts", "gnewsclient"],

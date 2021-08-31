@@ -16,7 +16,7 @@ You can choose language , location , topic and no of news you want to listen as 
 Clone the project
 
 ```bash
-  git clone https://https://github.com/TheXurde/news-python-cli.git
+  git clone https://https://github.com/ZayedMalick/news-python-cli.git
 ```
 
 Go to the project directory
